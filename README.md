@@ -1,7 +1,7 @@
 # SentinelBank - Compliance & Anti-Fraud Engine 🛡️
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-CONCLUÍDO-green?style=for-the-badge)
 
 O **SentinelBank Compliance Engine** é uma solução de backend desenvolvida para mitigar riscos operacionais e fraudes financeiras. Diferente de sistemas bancários convencionais, este projeto foca na camada de **validação de conformidade (Compliance)**, simulando as regras rigorosas de instituições bancárias.
 
@@ -38,12 +38,12 @@ Abaixo, o modelo de classes (UML) que sustenta a inteligência do motor:
 
 
 
-*()*
+*(<a href="https://ibb.co/cS5FPJJP"><img src="https://i.ibb.co/sdSwhjjh/Untitled-diagram-2025-12-24-225251.png" alt="Untitled-diagram-2025-12-24-225251" border="0"></a>)*
 
 ## 📂 Como rodar o projeto
 1. Clone o repositório.
 2. Certifique-se de ter o JDK 17+ instalado.
-3. Execute a classe `Main.java` para ver as simulações de transações sendo processadas pelo motor.
+3. Execute a classe `TesteSistema.java` para ver as simulações de transações sendo processadas pelo motor.
 
 ---
 **Desenvolvido por Henrique Martins** *Estudante de Análise e Desenvolvimento de Sistemas - FIAP*
