@@ -1,0 +1,74 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.kotlin
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+# Compilação e Ficheiros Binários
+*.class
+*.log
+*.ctxt
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Pastas de saída (Build)
+bin/
+out/
+target/
+build/
+
+# Ficheiros do IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+cmake-build-*/
+out/
+
+# Ficheiros do Sistema Operativo
+.DS_Store
+Thumbs.db
+
+# Maven (se estiveres a usar)
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Gradle (se estiveres a usar)
+.gradle/
+/build/
