@@ -1,6 +1,6 @@
 package br.com.sentinelbank.regras;
 
-import br.com.sentinelbank.beans.Transacao;
+import br.com.sentinelbank.modelos.Transacao;
 import br.com.sentinelbank.interfaces.RegraSeguranca;
 
 public class RegraHorarioSuspeito implements RegraSeguranca {

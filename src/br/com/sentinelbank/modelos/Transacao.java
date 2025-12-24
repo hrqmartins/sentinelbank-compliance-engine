@@ -1,4 +1,4 @@
-package br.com.sentinelbank.beans;
+package br.com.sentinelbank.modelos;
 
 import java.time.LocalDateTime;
 

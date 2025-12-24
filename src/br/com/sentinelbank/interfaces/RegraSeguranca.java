@@ -1,6 +1,6 @@
 package br.com.sentinelbank.interfaces;
 
-import br.com.sentinelbank.beans.Transacao;
+import br.com.sentinelbank.modelos.Transacao;
 
 public interface RegraSeguranca {
 
